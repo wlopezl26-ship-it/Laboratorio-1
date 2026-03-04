@@ -12,3 +12,4 @@ ya que el codigo esta más reducido, claro y organizado y si estas estan identif
 ingresar letras sino que solo números.
 
 Angel Gabriel Valenzuela Barrera 0905-24-16183
+Wendy Gabriela Lopez Lemus 0905-25-113777
