@@ -10,3 +10,5 @@ dandonos un codigo más corto y más eficiente siendo este más facil de leer.
 ya que el codigo esta más reducido, claro y organizado y si estas estan identificadas de una manera especifica se ra más facil saber que hacen.
 7) Se implemento una validacion para que cuando se ingrese una letra en las calificaciones el programa le indique al usuario que no puede
 ingresar letras sino que solo números.
+
+Angel Gabriel Valenzuela Barrera 0905-24-16183
